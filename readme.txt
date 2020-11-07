@@ -11,7 +11,7 @@ Instructions:
 2. Run the HW2Main.py file. This will run the entire code:
     a. First an index will be created for the trecweb file. The index is broken into a Dictionary file and a Postings file.
     b. Next we will read the index. In this step we load the entire Dictionary file into memory.
-    c. To search a term, Dictionary object is searched in memory and its corresponding entry is searched sequentially in postings file.
+    c. To search a term, dictionary object is searched in memory and its corresponding entry is searched sequentially in postings file.
     d. Once the term is found, postings data is returned.
 3. The step 2 will repeat for result.trectext file as well.
 
