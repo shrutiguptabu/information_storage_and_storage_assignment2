@@ -7,7 +7,7 @@ Environment configuration:
  - System Type : 64 - bits Operating System
 
 Instructions:
-1. Open Anaconda. open Spyder 3.3.6 (Python 3.7) and upload the folder.
+1. Open Anaconda. Open Spyder 3.3.6 (Python 3.7) and upload the folder.
 2. Run the HW2Main.py file. This will run the entire code:
     a. First an index will be created for the trecweb file. The index is broken into a Dictionary file and a Postings file.
     b. Next we will read the index. In this step we load the entire Dictionary file into memory.
