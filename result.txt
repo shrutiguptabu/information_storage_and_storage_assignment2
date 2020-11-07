@@ -1,0 +1,21 @@
+Total time to finish the code: 4 min 53 sec
+
+totally finish  198361  docs
+index web corpus running time:  0:01:01.841795
+result:
+the token "acow" appeared in 3 documents and 3 times in total
+lists-092-3952951       0923952951      1
+lists-092-4113429       0924113429      1
+lists-108-11347927      10811347927     1
+load index & retrieve the token running time:  0:00:03.767759
+
+
+totally finish  503473  docs
+index web corpus running time:  0:03:32.684977
+ >> the token "yhoo" appeared in 5 documents and 5 times in total
+NYT19990208.0397        199902080397    1
+NYT19990405.0253        199904050253    1
+NYT20000717.0201        200007170201    1
+NYT20000927.0406        200009270406    1
+NYT20000928.0343        200009280343    1
+load index & retrieve the token running time:  0:00:17.712300
